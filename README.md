@@ -1,5 +1,7 @@
 # SwaPo
-トランプを使った簡単なゲームです。
+X:いっぬ（@ixtsunu）
+
+トランプを使った簡単なゲームです！
 遊んでみてください。
 
 A simple card game using a standard deck of playing cards.
