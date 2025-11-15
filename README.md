@@ -1,0 +1,2 @@
+# SwaPo
+original card game
