@@ -75,7 +75,7 @@ Use one of the following methods:
 - The player with the swap right selects cards from their opponent's layout and swaps them with their own cards (keeping them face-down)
 - After all swaps are complete, players may check and rearrange their hand
 
-## 10. SwaPo Asterisk (SwaPo*)
+## 10. SwaPo Star (SwaPo*)
 
 - Swaps are not limited to a single opponent (you may take cards from multiple opponents)
 - However, cards that have already been swapped cannot be swapped again
