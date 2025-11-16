@@ -1,5 +1,5 @@
 # SwaPo
-X:いっぬ（@ixtsunu）![SwaPo](https://github.com/SW-yo/SwaPo/blob/main/%E3%83%AD%E3%82%B4/SwaPo%20key%20visual.png)
+X:いっぬ（@ixtsunu）![SwaPo](https://github.com/SW-yo/SwaPo/blob/main/%E3%83%AD%E3%82%B4/key%20visual.png)
 
 トランプを使った簡単なゲームです。
 遊んでみてください！
