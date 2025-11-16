@@ -1,5 +1,5 @@
 # SwaPo
-X:いっぬ（@ixtsunu）
+X:いっぬ（@ixtsunu）![[SwaPo key visual.png]]
 
 トランプを使った簡単なゲームです。
 遊んでみてください！
